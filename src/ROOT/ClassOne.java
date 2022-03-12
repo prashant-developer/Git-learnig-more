@@ -7,7 +7,7 @@ public class ClassOne {
 
 	//ClassTwo CTwo = new ClassTwo();
 	WebDriver driver;
-	//static String browser = ClassTwo.browser;
+	//static String browser = ClassTwo.browser ;
 		
 	public static void main(String[] args) {
 		
